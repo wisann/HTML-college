@@ -1,4 +1,4 @@
-# HTML-college
+# HTML-tabelas
 Exercitando meus conhecimentos em HTML criando tabelas básicas
 <br><br>
 *Practicing HTML*
